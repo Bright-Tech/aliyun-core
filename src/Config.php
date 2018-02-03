@@ -1,8 +1,8 @@
 <?php
 
-namespace Aliyun\Core;
+namespace Bright\Aliyun\Core;
 
-use Aliyun\Core\Regions\EndpointConfig;
+use Bright\Aliyun\Core\Regions\EndpointConfig;
 
 //config http proxy
 define('ENABLE_HTTP_PROXY', FALSE);

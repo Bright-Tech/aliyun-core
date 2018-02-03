@@ -1,6 +1,6 @@
 <?php
 
-namespace Aliyun\Core;
+namespace Bright\Aliyun\Core;
 
 abstract class AcsRequest
 {

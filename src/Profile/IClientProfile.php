@@ -1,6 +1,6 @@
 <?php
 
-namespace Aliyun\Core\Profile;
+namespace Bright\Aliyun\Core\Profile;
 
 interface IClientProfile
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Aliyun\Core\Http;
+namespace Bright\Aliyun\Core\Http;
 
 class HttpResponse
 {

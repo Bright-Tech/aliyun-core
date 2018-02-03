@@ -1,6 +1,6 @@
 <?php
 
-namespace Aliyun\Core\Regions;
+namespace Bright\Aliyun\Core\Regions;
 
 class EndpointProvider
 {

@@ -1,7 +1,7 @@
 <?php
 
-namespace Aliyun\Core\Http;
-use Aliyun\Core\Exception\ClientException;
+namespace Bright\Aliyun\Core\Http;
+use Bright\Aliyun\Core\Exception\ClientException;
 
 class HttpHelper
 {

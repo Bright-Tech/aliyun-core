@@ -1,6 +1,6 @@
 <?php
 
-namespace Aliyun\Core\Exception;
+namespace Bright\Aliyun\Core\Exception;
 
 class ClientException extends \Exception
 {

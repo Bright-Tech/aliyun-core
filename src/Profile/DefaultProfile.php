@@ -1,12 +1,12 @@
 <?php
 
-namespace Aliyun\Core\Profile;
+namespace Bright\Aliyun\Core\Profile;
 
-use Aliyun\Core\Auth\Credential;
-use Aliyun\Core\Auth\ShaHmac1Signer;
-use Aliyun\Core\Regions\ProductDomain;
-use Aliyun\Core\Regions\Endpoint;
-use Aliyun\Core\Regions\EndpointProvider;
+use Bright\Aliyun\Core\Auth\Credential;
+use Bright\Aliyun\Core\Auth\ShaHmac1Signer;
+use Bright\Aliyun\Core\Regions\ProductDomain;
+use Bright\Aliyun\Core\Regions\Endpoint;
+use Bright\Aliyun\Core\Regions\EndpointProvider;
 
 class DefaultProfile implements IClientProfile
 {

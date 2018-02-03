@@ -1,6 +1,6 @@
 <?php
 
-namespace Aliyun\Core\Auth;
+namespace Bright\Aliyun\Core\Auth;
 
 class ShaHmac256Signer implements ISigner
 {
